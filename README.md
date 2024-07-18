@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**Welingson/Welingson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formado em **Informática para Internet** pelo **Centro de Educação Profissional Tancredo Neves**. 
+Tenho boa experiência em desenvolvimento **Front-end** e também colaboro atualmente em projetos full-stack usando outras tecnologias JavaScript.
 
-Here are some ideas to get you started:
+Tenho experiência em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Front-end:**
+
+*   React
+*   TypeScript
+*   Tailwind CSS
+
+**Back-end:**
+
+*   Node.js
+*   Express (para desenvolvimento e manutenção de APIs)
