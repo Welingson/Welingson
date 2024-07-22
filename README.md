@@ -15,3 +15,5 @@ Tenho experiência em:
 
 *   Node.js
 *   Express (para desenvolvimento e manutenção de APIs)
+
+![Top Langs](https://github-readme-stats-puce-chi-16.vercel.app/api/top-langs/?username=Welingson&layout=compact)
