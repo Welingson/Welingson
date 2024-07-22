@@ -16,5 +16,4 @@ Tenho experiência em:
 *   Node.js
 *   Express (para desenvolvimento e manutenção de APIs)
 
-![Top Langs](https://github-readme-stats-puce-chi-16.vercel.app/api/top-langs/?username=Welingson&layout=donut)
-![Anurag's GitHub stats](https://github-readme-stats-puce-chi-16.vercel.app/api?username=Welingson&show_icons=true)
+![Top Langs](https://github-readme-stats-puce-chi-16.vercel.app/api/top-langs/?username=Welingson&layout=donut&theme=radical)
