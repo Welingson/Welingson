@@ -16,4 +16,4 @@ Tenho experiência em:
 *   Node.js
 *   Express (para desenvolvimento e manutenção de APIs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welingson&layout=compact)
+![Top Langs](https://readme-status-git-main-welingson-expedito-dos-santos-projects.vercel.app/api/top-langs/?username=Welingson&layout=compact)
