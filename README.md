@@ -7,7 +7,7 @@ Tenho experiência em:
 
 **Front-end:**
 
-*   React
+*   ReactJs
 *   TypeScript
 *   Tailwind CSS
 
